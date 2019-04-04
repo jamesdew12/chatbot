@@ -112,3 +112,7 @@ Chatbots killing jobs
 Chatbots are predicted to be progressively present in businesses and will automate tasks that do not require skill-based talents. Companies are getting smarter with touchpoints and customer service now comes in the form of instant messenger, as well as phone calls. IBM recently predicted that 85% of customer service enquiries will be handled by AI as early as 2020. [62] The call centre workers may be particularly at risk from AI.[63]
 
 A study by Forrester shows that 25% of today’s jobs will most likely be impacted by AI technologies by 2019. [64]
+
+team table
+chelsea 1
+tottenham 2
